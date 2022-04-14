@@ -36,7 +36,6 @@ export const FilterContainer = styled.div`
 `
 
 export const Content = styled.div`
-   /* border: 1px solid black; */
    width: 55vw;
    height: 10vh;
    display: flex;
