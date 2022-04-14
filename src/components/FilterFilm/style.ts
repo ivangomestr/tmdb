@@ -17,7 +17,7 @@ export const Title = styled.div`
    align-items: center;
    margin-bottom: -2%;
 
-   p {
+   h2 {
        color: var(--white);
        font-size: 3rem;
    }

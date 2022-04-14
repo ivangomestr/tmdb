@@ -4,7 +4,7 @@ export const FilterFilm = () => {
     return (
         <Container>
             <Title>
-                <p>Milhões de filmes, séries e pessoas <br/>para descobrir. Explore já.</p>
+                <h2>Milhões de filmes, séries e pessoas <br/>para descobrir. Explore já.</h2>
             </Title>
 
             <FilterContainer>

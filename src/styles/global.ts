@@ -9,6 +9,8 @@ export const GlobalStyle = createGlobalStyle`
       --orange: #D18000;
       --silver: #323232;
       --gray: #646464;
+      --gray-light: #DDDDDD;
+
 
    }
 
