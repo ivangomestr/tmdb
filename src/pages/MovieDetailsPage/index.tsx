@@ -1,5 +1,5 @@
 import { Header } from "../../components/Header"
-import { CastContainer, Container, Content, ImgContainer, Sinopse, SinopseContainer, Title } from "./style"
+import { Card, Cast, CastContainer, Container, Content, ImgContainer, Sinopse, SinopseContainer, SliderContainer, Title } from "./style"
 import deadpoolImg from "../../assets/deadpool.svg"
 
 export const MovieDetailsPage = () => {
@@ -54,6 +54,124 @@ export const MovieDetailsPage = () => {
                     </CastContainer>
                 </SinopseContainer>
             </Content>
+
+            <Cast>
+                <h2>Elenco original</h2>
+            </Cast>
+
+            <SliderContainer>
+                <Card>
+                    <img src="" alt="" />
+
+                    <h3>Ryan Reynolds</h3>
+                    <p>Wade Wilson/ Deadpool</p>
+                </Card>
+
+                <Card>
+                    <img src="" alt="" />
+
+                    <h3>Ryan Reynolds</h3>
+                    <p>Wade Wilson</p>
+                </Card>
+
+                <Card>
+                    <img src="" alt="" />
+
+                    <h3>Ryan Reynolds</h3>
+                    <p>Wade Wilson</p>
+                </Card>
+
+                <Card>
+                    <img src="" alt="" />
+
+                    <h3>Ryan Reynolds</h3>
+                    <p>Wade Wilson</p>
+                </Card>
+
+                <Card>
+                    <img src="" alt="" />
+
+                    <h3>Ryan Reynolds</h3>
+                    <p>Wade Wilson</p>
+                </Card>
+
+                <Card>
+                    <img src="" alt="" />
+
+                    <h3>Ryan Reynolds</h3>
+                    <p>Wade Wilson</p>
+                </Card>
+
+                <Card>
+                    <img src="" alt="" />
+
+                    <h3>Ryan Reynolds</h3>
+                    <p>Wade Wilson</p>
+                </Card>
+
+                <Card>
+                    <img src="" alt="" />
+
+                    <h3>Ryan Reynolds</h3>
+                    <p>Wade Wilson</p>
+                </Card>
+
+                <Card>
+                    <img src="" alt="" />
+
+                    <h3>Ryan Reynolds</h3>
+                    <p>Wade Wilson</p>
+                </Card>
+
+                <Card>
+                    <img src="" alt="" />
+
+                    <h3>Ryan Reynolds</h3>
+                    <p>Wade Wilson</p>
+                </Card>
+
+                <Card>
+                    <img src="" alt="" />
+
+                    <h3>Ryan Reynolds</h3>
+                    <p>Wade Wilson</p>
+                </Card>
+
+                <Card>
+                    <img src="" alt="" />
+
+                    <h3>Ryan Reynolds</h3>
+                    <p>Wade Wilson</p>
+                </Card>
+
+                <Card>
+                    <img src="" alt="" />
+
+                    <h3>Ryan Reynolds</h3>
+                    <p>Wade Wilson</p>
+                </Card>
+
+                <Card>
+                    <img src="" alt="" />
+
+                    <h3>Ryan Reynolds</h3>
+                    <p>Wade Wilson</p>
+                </Card>
+
+                <Card>
+                    <img src="" alt="" />
+
+                    <h3>Ryan Reynolds</h3>
+                    <p>Wade Wilson</p>
+                </Card>
+
+                <Card>
+                    <img src="" alt="" />
+
+                    <h3>Ryan Reynolds</h3>
+                    <p>Wade Wilson</p>
+                </Card>
+            </SliderContainer>
         </Container>
     )
 }

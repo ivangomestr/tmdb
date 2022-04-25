@@ -10,7 +10,7 @@ export const Container = styled.div`
 `
 
 export const Title = styled.div`
-   width: 45vw;
+   width: 50vw;
    height: 12vh;
    display: flex;
    justify-content: center;
