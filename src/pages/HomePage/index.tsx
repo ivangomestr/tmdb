@@ -3,6 +3,8 @@ import { Header } from "../../components/Header"
 import { MovieCard } from "../../components/MovieCard"
 import { CardContainer, Container } from "./style"
 
+
+
 export const HomePage = () => {
   return (
     <Container>
@@ -11,24 +13,6 @@ export const HomePage = () => {
 
       <CardContainer>
         <MovieCard />
-        <MovieCard />
-        <MovieCard />
-        <MovieCard />
-        <MovieCard />
-        <MovieCard />
-        <MovieCard />
-        <MovieCard />
-        <MovieCard />
-        <MovieCard />
-        <MovieCard />
-        <MovieCard />
-        <MovieCard />
-        <MovieCard />
-        <MovieCard />
-        <MovieCard />
-        <MovieCard />
-        <MovieCard />
-        
       </CardContainer>
     </Container>
   )
